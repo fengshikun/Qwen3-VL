@@ -51,7 +51,7 @@ Available in Dense and MoE architectures that scale from edge to cloud, with Ins
 
 2. **DeepStack**: Fuses multi‑level ViT features to capture fine‑grained details and sharpen image–text alignment.
 
-3. **Text–Timestamp Alignment:** Moves beyond T‑RoPE to precise, timestamp‑grounded event localization for stronger video temporal modeling.
+3. **Text–Timestamp Alignment:** Moves beyond T‑RoPE to precise, timestamp‑grounded event localization for stronger video temporal modeling. See [Interleaved Timestep Video Processing Documentation](docs/interleaved_timestep_video_processing.md) for detailed explanation and code examples.
 
 
 
